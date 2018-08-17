@@ -1,12 +1,12 @@
 {
-  "name": "grunt-contrib-jshint",
+  "name": "grunt-contrib-jshint-2-9-5",
   "description": "Validate files with JSHint",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "author": {
     "name": "Grunt Team",
     "url": "http://gruntjs.com/"
   },
-  "repository": "gruntjs/grunt-contrib-jshint",
+  "repository": "joakimbeng/grunt-contrib-jshint-2-9-5",
   "license": "MIT",
   "engines": {
     "node": ">=6"
@@ -33,6 +33,5 @@
   ],
   "files": [
     "tasks"
-  ],
-  "appveyor_id": "j04ik7qgx21ixyfw"
+  ]
 }
